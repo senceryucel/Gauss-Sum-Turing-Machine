@@ -1,5 +1,6 @@
 ; This machine can be tested on Morphett's TM Simulator on http://morphett.info/turing/turing.html
 
+; AUTHOR: Sencer YÜCEL
 
 ; This problem did not have to be solved by using Gauss's sum formula, there were more efficient solutions.
 ; However, this was the first thing that came to my mind when I read the question, so I decided to implement this inefficient but beautiful algorithm.
